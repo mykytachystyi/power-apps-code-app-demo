@@ -1,0 +1,18 @@
+﻿{
+    "version":  "1.0",
+    "appId":  null,
+    "appDisplayName":  "My First Code App",
+    "region":  "prod",
+    "environmentId":  "YOUR-ENVIRONMENT-ID",
+    "description":  " ",
+    "buildPath":  "./dist",
+    "buildEntryPoint":  "index.html",
+    "localAppUrl":  "http://localhost:3000",
+    "logoPath":  "Default",
+    "connectionReferences":  {
+
+                             },
+    "databaseReferences":  {
+
+                           }
+}
